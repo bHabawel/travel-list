@@ -74,6 +74,8 @@ input {
   background-color: #5a3e2b;
   color: #ffebb3;
   padding: 4rem 0;
+  width: 100%;
+  height: 49.5vh;
 
   display: flex;
   justify-content: space-between;
